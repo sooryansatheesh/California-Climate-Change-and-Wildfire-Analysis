@@ -67,7 +67,7 @@ For all three datasets, data was cleaned and sorted using Python/QGIS/ArcMap/Exc
 Thank you for exploring our Climate Change Analysis and Data Visualization project repository. We hope our visualizations inspire awareness and action regarding climate change in California and beyond.
 
 ## Acknowledgments 
-●	This research benefited from the support and services of UC Berkeley's Geospatial Innovation Facility (GIF), gif.berkeley.edu.
+●	This research benefited from the support and services of UC Berkeley's Geospatial Innovation Facility (GIF), https://gif.berkeley.edu .
 
 ●	We acknowledge the use of data and/or imagery from NASA's Fire Information for Resource Management System (FIRMS) (https://earthdata.nasa.gov/firms), part of NASA's Earth Observing System Data and Information System (EOSDIS).
 
