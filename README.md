@@ -1,6 +1,6 @@
 # California Climate Change and Wildfire Analysis
- Spring 2023 UC Berkeley : Analysing the last 20 years of temeprature and wildfire data from California to unearth key insights
-# Welcome to the 20 years California Climate Change Analysis and Data Visualization project repository (INFO247- Spring 2023)
+ Spring 2023 UC Berkeley : Analysing the last 20 years of temperature and wildfire data from California to unearth key insights
+# Welcome to the 20 year California Climate Change Analysis and Data Visualization project repository (INFO247- Spring 2023)
 **Wadzanai Makomva and Soorya Narayan Satheesh**
 ## Project Goals
 Our project aims to provide knowledge and understanding of key climate change indicators, with a focus on California. We strive to educate users about the impacts of climate change and raise awareness of its urgency. As data scientists, we are also interested in exploring visualization techniques to convey this critical information effectively.
@@ -35,7 +35,7 @@ We utilized reliable and accredited data sources for our project:
 ### Temperature and Precipitation Dataset 
 Given the copious amount of data available relating to changes in climate indicators, we were intentional about finding data sources that were verifiable, accredited and trustworthy whilst also being easy to understand. We downloaded our data from the National Centers for Environmental Information  which provided us with simplified data on temperature and precipitation changes over time. 
 (https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series)
-We downloaded csv files for each of the 58 counties separately. These files were then cleaned, processed and merged to form a single dataset using Python coding. In the raw file the year and month were fused together which prevented creation of any visualization. This was separated to form two separate fields. Additionally , a new field for county names was created.
+We downloaded csv files for each of the 58 counties separately. These files were then cleaned, processed and merged to form a single dataset using Python coding. In the raw file the year and month were fused together which prevented the creation of any visualization. This was separated to form two separate fields. Additionally, a new field for county names was created.
 
 ### Wildfire Dataset
 The dataset is a collection of over 283k data points containing information of Forest fires in the different National Park of California from 2000 to 2022 detected through the NASA Land, Atmosphere Near real-time Capability for EOS (LANCE) Fire Information for Resource Management System (FIRMS) using the Moderate Resolution Imaging Spectroradiometer (MODIS) on the Terra/Aqua satellites. 
